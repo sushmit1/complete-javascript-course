@@ -12,7 +12,6 @@ console.log(firstName);
 
 let PI = 3.14;
 alert(PI);
-*/
 
 let javascript = true;
 console.log(javascript);
@@ -35,3 +34,15 @@ alert(year);
 
 // ayo bug
 console.log(typeof null);
+*/
+
+// let, const and var
+let age = 17;
+age = 18;
+
+const birthyear = 2005;
+
+// var is nalla like gaevil and paperboy so never use
+var job = 'nalla';
+job = 'mahanalla';
+console.log(job);
